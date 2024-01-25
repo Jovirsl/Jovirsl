@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jovirsl
+- 👀 I’m interested in Data Analytics 
+- 🌱 I’m currently learning Python and VBA
+- 📫 How to reach me joao.victor.rsl@hotmail.com
